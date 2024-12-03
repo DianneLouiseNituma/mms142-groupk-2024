@@ -373,3 +373,8 @@ footer {
     font-family: 'Caviar Dreams', Arial, sans-serif;
     font-size: 0.9em;
 }
+
+.intro-content p {
+    text-align: justify;
+    line-height: 1.6; /* Optional: adds space between lines for better readability */
+}
